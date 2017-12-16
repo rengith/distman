@@ -1,0 +1,2 @@
+# distman
+Data distribution tool
